@@ -1,0 +1,31 @@
+_repo: The-Philosophy-of-Auguste-Comte_56517
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Harrison, Frederic
+    birthdate: 1831
+    deathdate: 1923
+    gutenberg_agent_id: '5960'
+    url: http://www.gutenberg.org/2009/agents/5960
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Harrison
+creator:
+  author:
+    agent_name: Lévy-Bruhl, Lucien
+    birthdate: 1857
+    deathdate: 1939
+    gutenberg_agent_id: '48898'
+    url: http://www.gutenberg.org/2009/agents/48898
+    wikipedia: https://en.wikipedia.org/wiki/Lucien_L%C3%A9vy-Bruhl
+description: ''
+gutenberg_issued: '2018-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Philosophy of Auguste Comte
+url: http://www.gutenberg.org/ebooks/56517
